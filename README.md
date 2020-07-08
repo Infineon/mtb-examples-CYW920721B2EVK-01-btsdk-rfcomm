@@ -1,3 +1,4 @@
+## ( deprecated: last version was 'release-v2.3.0' )
 # RFCOMM Examples
 
 This application group demonstrates use of Bluetooth RFCOMM profiles. Applications included are:
